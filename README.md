@@ -1,1 +1,1 @@
-# js-12-class--3
+# js-12-class-3
